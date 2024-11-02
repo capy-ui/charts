@@ -1,0 +1,17 @@
+.{
+    .name = "capy-charts",
+    .version = "0.0.0",
+    .dependencies = .{
+        .capy = .{
+            .url = "git+https://github.com/capy-ui/capy#2a5c7c5dd711572c4487b3bf4962250e7392b8aa",
+            .hash = "1220b88f6bd6fd4f015e6d27cfe792b641782d405f673f2dc8cc150fd04c46eb06f1",
+        },
+    },
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "LICENSE",
+        "README.md",
+    },
+}
