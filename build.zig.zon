@@ -3,8 +3,8 @@
     .version = "0.0.0",
     .dependencies = .{
         .capy = .{
-            .url = "git+https://github.com/capy-ui/capy#2a5c7c5dd711572c4487b3bf4962250e7392b8aa",
-            .hash = "1220b88f6bd6fd4f015e6d27cfe792b641782d405f673f2dc8cc150fd04c46eb06f1",
+            .url = "git+https://github.com/capy-ui/capy#bbdeb32d50506a6da36efb79724a7f78b17c40bc",
+            .hash = "122006866f39e596b8f4d7c3f317b47ffba82ac5bcedb50404f37bbc44c90c7def6a",
         },
     },
     .paths = .{
